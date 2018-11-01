@@ -1,0 +1,25 @@
+{
+  "name": "basic-server",
+  "version": "1.0.0",
+  "description": "Basic Vanilla Node.js Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseCrz/Basic-Node-Server.git"
+  },
+  "keywords": [
+    "vanilla",
+    "node.js",
+    "server"
+  ],
+  "author": "Jose Cuevas <josecueram@gmail.com> (https://twitter.com/Jose_Crz)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoseCrz/Basic-Node-Server/issues"
+  },
+  "homepage": "https://github.com/JoseCrz/Basic-Node-Server#readme"
+}
