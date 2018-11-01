@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/JoseCrz/Basic-Node-Server/issues"
   },
-  "homepage": "https://github.com/JoseCrz/Basic-Node-Server#readme"
+  "homepage": "https://github.com/JoseCrz/Basic-Node-Server#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.5"
+  }
 }
